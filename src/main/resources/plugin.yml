@@ -1,0 +1,6 @@
+name: Leasher
+description: Never break the lead
+main: hazae41.leasher.Plugin
+api-version: 1.16
+version: 1.1
+author: hazae41
